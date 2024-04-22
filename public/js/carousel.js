@@ -1,5 +1,6 @@
 $(document).ready(function() {
     // Header carousel
+    new WOW().init();
     $(".header-carousel").owlCarousel({
         autoplay: false,
         smartSpeed: 1500,
