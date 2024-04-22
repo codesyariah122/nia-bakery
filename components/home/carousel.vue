@@ -50,4 +50,13 @@
 		src: '/img/bolujadul1.webp'
 	}
 	]
+
+	useHead({
+		script: [
+		{
+			src: '/js/carousel.js',
+			body: true
+		}
+		]
+	})
 </script>
