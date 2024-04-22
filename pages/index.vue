@@ -2,7 +2,7 @@
 	<div>
 		<!-- Spinner Start -->
 		<div v-if="loading" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-			<div class="spinner-grow text-primary" role="status"></div> <h1 class="ml-5 display-6 text-warning mb-4 animated slideInDown">Nia Bakery 🧁 {{loading}} </h1>
+			<div class="spinner-grow text-primary" role="status"></div> <h1 class="ml-5 display-6 text-warning mb-4 animated slideInDown">Nia Bakery 🧁 </h1>
 		</div>
 		<!-- Spinner End -->
 		<div v-else>			
@@ -65,18 +65,15 @@
 		script: [
 		{
 			src: 'https://code.jquery.com/jquery-3.4.1.min.js',
-			body: true
 		},
 		{
 			src: '/lib/owlcarousel/owl.carousel.min.js'
 		},
 		{
 			src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js',
-			body: true
 		},
 		{
 			src: '/lib/wow/wow.min.js',
-			body: true
 		},
 		{
 			src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA',
@@ -84,15 +81,12 @@
 		},
 		{
 			src: '/lib/easing/easing.min.js',
-			body: true
 		},
 		{
 			src: '/lib/waypoints/waypoints.min.js',
-			body: true
 		},
 		{
 			src: '/lib/counterup/counterup.min.js',
-			body: true
 		},
 		
 		{
