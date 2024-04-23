@@ -5,7 +5,7 @@
 			<div class="bg-primary text-light rounded-bottom p-5 my-6 mt-0 wow fadeInUp" data-wow-delay="0.1s">
 				<div class="row g-4 align-items-center">
 					<div class="col-lg-6">
-						<h1 class="display-4 text-light mb-0">Special Kue Bolu Jadul, Untuk Kumpul Keluarga</h1>
+						<h1 class="display-5 text-light mb-0">Special Kue Bolu Jadul, Untuk Kumpul Keluarga</h1>
 					</div>
 					<div class="col-lg-6 text-lg-end  hotline">
 						<button>
@@ -13,7 +13,7 @@
 								<img src="/logo/whatsapp.png" class="">
 								<div class="ms-4">
 									<p class="fs-5 fw-bold mb-0 text-white">Hotline Tanya Jawab</p>
-									<p class="fs-1 fw-bold mb-0 text-white">0813 2122 9245</p>
+									<p class="fs-4 fw-bold mb-0 text-white">0813 2122 9245</p>
 								</div>
 							</div>
 						</button>
@@ -38,8 +38,8 @@
 						<div class="position-relative mt-auto">
 							<img class="img-fluid" :src="product.src" :alt="product.name" />
 							<div class="product-overlay">
-								<button @click="whatsappRedirect('6281321229245', product)" class="btn btn-lg-square btn-outline-light rounded-circle">
-									<i class="fab fa-whatsapp fa-2x text-success" />
+								<button @click="whatsappRedirect('6281321229245', product)" class="btn btn-lg-square btn-outline-light rounded-circle btn-call">
+									<i class="fab fa-whatsapp fa-2x text-white" />
 								</button>
 							</div>
 						</div>
@@ -98,5 +98,9 @@
 	.hotline button {
 		background-color: transparent;
 		border: none;
+	}
+
+	.btn-call .fa-whatsapp:hover {
+		color: #5cb85c !important;
 	}
 </style>

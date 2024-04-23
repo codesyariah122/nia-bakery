@@ -10,10 +10,9 @@
 						<p class="mb-2"><i class="fa fa-phone-alt me-3"></i>0813 2122 9245</p>
 						<p class="mb-2"><i class="fa fa-envelope me-3"></i>nia_bakery@gmail.com</p>
 						<div class="d-flex pt-2">
-							<a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
 							<a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
 							<a class="btn btn-square btn-outline-light rounded-circle me-1" href=""><i class="fab fa-youtube"></i></a>
-							<a class="btn btn-square btn-outline-light rounded-circle me-0" href=""><i class="fab fa-linkedin-in"></i></a>
+							<a class="btn btn-square btn-outline-light rounded-circle me-0" href=""><i class="fab fa-instagram"></i></a>
 						</div>
 					</div>
 
@@ -42,7 +41,7 @@
 					</div>
 
 					<div class="col-lg-3 col-md-6">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.544548100484!2d107.55364377481669!3d-6.924897475118817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e5f383f9b935%3A0xca971f17609f18c4!2sJl.%20Hercules%20I%20No.31%2C%20Melong%2C%20Kec.%20Cimahi%20Sel.%2C%20Kota%20Cimahi%2C%20Jawa%20Barat%2040534!5e0!3m2!1sid!2sid!4v1713809202000!5m2!1sid!2sid" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d247.544548100484!2d107.55364377481669!3d-6.924897475118817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e5f383f9b935%3A0xca971f17609f18c4!2sJl.%20Hercules%20I%20No.31%2C%20Melong%2C%20Kec.%20Cimahi%20Sel.%2C%20Kota%20Cimahi%2C%20Jawa%20Barat%2040534!5e0!3m2!1sid!2sid!4v1713809202000!5m2!1sid!2sid" width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 					</div>
 					
 					
